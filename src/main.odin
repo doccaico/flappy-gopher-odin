@@ -34,7 +34,6 @@ Game :: struct {
 	score_string: cstring,
 	walls:        [dynamic]Wall,
 	scene:        Scene,
-	retry:        bool,
 }
 
 
